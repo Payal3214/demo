@@ -1,0 +1,81 @@
+[
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/color/48/000000/sql.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python.png"
+
+    },
+    {
+        "name": "Microsoft power bi",
+        "icon": "https://img.icons8.com/color/48/000000/Microsoft power bi.png"
+    },
+    {
+        "name": "Ms- Excel",
+        "icon": "https://img.icons8.com/color/48/000000/power-bi.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/48/000000/pandas.png"
+    },
+    {
+        "name": "Numpy",
+        "icon": "https://img.icons8.com/color/48/000000/numpy.png"
+    },
+    {
+        "name": "git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "Django",
+        "icon": "https://img.icons8.com/color/48/000000/django.png"
+    },
+    {
+        "name": "Teamwork",
+        "icon": "https://img.icons8.com/color/48/000000/teamwork.png"
+    },
+    {
+        "name": "collaboration",
+        "icon": "https://img.icons8.com/color/48/000000/collaboration.png"
+    },
+    {
+        "name": "Leadership",
+        "icon": "https://img.icons8.com/color/48/000000/leadership.png"
+    }    ,
+   
+
+    
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/48/000000/pandas.png"
+    },
+    
+    
+    {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/color/48/000000/machine-learning.png"
+    },
+    
+    {
+        "name": "Data Analytics",
+        "icon": "https://img.icons8.com/color/48/000000/data-analytics.png"
+    },
+    {
+        "name": "AI Savvy",
+        "icon": "https://img.icons8.com/color/48/000000/artificial-intelligence.png"
+    },
+    {
+        "name": "Problem Solving",
+        "icon": "https://img.icons8.com/color/48/000000/problem-solving.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Retail_Analytics",
+    "desc": " ",
+    "image": "Retail_Analytics",
+    "category": "native_android",
+    "links": {
+      
+      "code": "https://github.com/Payal3214/Retail-Analysis.git"
+    }
+  },
+  {
+    "name": "Loan-approval-prediction",
+    "desc": "",
+    "image": "Loan-approval-prediction-based-on-machine-learning-approach-1-2048",
+    "category": "native_android",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Payal3214/LOAN-APPROVAL-PREDICTION.git"
+    }
+  },
+  {
+    "name": "Spotify-playlist-analysis-using-SQL",
+    "desc": "",
+    "image": "images (2)",
+    "category": "native_android",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Payal3214/Spotify-playlist-analysis-using-SQL.git"
+    }
+  },
+  {
+    "name": "cancer-prediction-syatem",
+    "desc": "",
+    "image": "sddefault (1)",
+    "category": "library",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Payal3214/Cancer-prediction-system.git"
+    }
+  },
+  {
+    "name": "Airline-Revenue-Optimization",
+    "desc": "",
+    "image": "images12",
+    "category": "native_android",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Payal3214/Airline-Revenue-Optimization.git"
+    }
+  },
+  {
+    "name": "EDA-of-Zomato",
+    "desc": "",
+    "image": "hqdefault",
+    "category": "native_android",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Payal3214/EDA-of-Zomato.git"
+    }
+  }
+]
